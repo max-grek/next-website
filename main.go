@@ -8,7 +8,7 @@ import (
 
 const (
 	DEFAULT_HOST = "0.0.0.0"
-	DEFAULT_PORT = 9003
+	DEFAULT_PORT = 9000
 )
 
 func main() {
